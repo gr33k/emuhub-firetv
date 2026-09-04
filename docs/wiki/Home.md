@@ -9,6 +9,7 @@ EmuHub on the big screen, with TV navigation, native client shortcuts, and serve
 
 - [Getting Started](Getting-Started.md)
 - [Controller Mapping](Controller-Mapping.md)
+- [PlayStation Xbox and 8BitDo](PlayStation-Xbox-and-8BitDo.md)
 - [Client Family](Client-Family.md)
 - [Compatibility and Testing](Compatibility-and-Testing.md)
 - [Troubleshooting](Troubleshooting.md)
