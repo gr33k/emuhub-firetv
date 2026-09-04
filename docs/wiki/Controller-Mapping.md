@@ -3,7 +3,6 @@
 Source-reviewed snapshot: **2026-09-03**. The native Fire TV shell handles
 application shortcuts and selected TV navigation pages. Game controls on the
 wheel/player routes are otherwise passed through to EmuHub's active runtime.
-This is not the iOS touch-controller implementation or the webOS SDL profile.
 
 ## Application shortcuts
 
@@ -33,7 +32,7 @@ runtime and its mapping along with the Android controller profile. Arcade Coin
 and Start are distinct; a physical Select button is commonly the Coin source,
 but must be checked against that core's configuration.
 
-Do not copy webOS SDL numbers or ARMSX2 native IDs into Android KeyEvents.
+Do not copy unrelated runtime button IDs into Android KeyEvents.
 `BUTTON_THUMBL`, `BUTTON_THUMBR`, `BUTTON_SELECT`, and `BUTTON_START` are the
 events inspected for the client shortcuts above.
 
