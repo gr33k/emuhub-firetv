@@ -1,0 +1,1 @@
+EmuHub Fire TV client documentation. Source-reviewed does not mean device-qualified. [Security](https://github.com/gr33k/emuhub-firetv/security) | [Contribute](https://github.com/gr33k/emuhub-firetv/blob/main/CONTRIBUTING.md)
